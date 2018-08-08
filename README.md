@@ -24,3 +24,14 @@ Après avoir effectuer la configuration, votre serveur apparaîtra dans la liste
 ## Vérifications si la connexion est établie avec votre serveur/Acceuil de l'éditeur
 
 ![alt text](https://i.imgur.com/VFQuGju.png "EditorRequest")
+
+Dés lors, la première chose à faire sera de vérifier dans l'onglet "Session" en bas à gauche de votre fenêtre, si les informations de votre serveur apparaît bien.
+
+Si elles y sont bien présentes. Nous pouvons commencer à taper.
+
+## Première requête SQL
+
+![alt text](https://i.imgur.com/PhH0PYR.png "FirstRequest")
+
+Cette requête vous permettra de vérifier les bases de données actuellement présentes sur le serveur.
+
