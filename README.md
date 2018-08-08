@@ -35,3 +35,8 @@ Si elles y sont bien présentes. Nous pouvons commencer à taper.
 
 Cette requête vous permettra de vérifier les bases de données actuellement présentes sur le serveur.
 
+## Résultats
+
+Et, voilà.
+
+![alt text](https://i.imgur.com/OL386Wn.png "Results")
