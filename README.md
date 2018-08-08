@@ -16,3 +16,11 @@ Les paramètres de base suffiront pour notre exemple. Nous appellerons notre ser
 Vous pouvez choisir un mot de passe via l'onglet Store in Keychain..
 
 
+Après avoir effectuer la configuration, votre serveur apparaîtra dans la liste des choix disponibles, il vous suffira de cliquer une fois dessus.
+
+![alt text](https://i.imgur.com/8bIXife.png "LaunchServer")
+
+
+## Vérifications si la connexion est établie avec votre serveur/Acceuil de l'éditeur
+
+![alt text](https://i.imgur.com/VFQuGju.png "EditorRequest")
